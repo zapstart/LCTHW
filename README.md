@@ -1,1 +1,1 @@
-This is the my note on LCTHW
+This is my note on LCTHW
